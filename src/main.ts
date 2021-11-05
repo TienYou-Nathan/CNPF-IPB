@@ -5,9 +5,10 @@ import App from "./App.vue";
 
 
 import "vuesax/dist/vuesax.css"; //Vuesax styles
+import i18n from './i18n'
 
 
-const app = createApp(App)
+const app = createApp(App).use(i18n)
 app.use(store, key)
 app.mount("#app");
 
