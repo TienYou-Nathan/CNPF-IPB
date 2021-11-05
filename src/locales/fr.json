@@ -1,3 +1,18 @@
 {
+  "survey name": "nom du relevé",
+  "date": "date",
+  "covered area": "surface parcourue",
+  "total area": "surface totale",
+  "folder": "dossier",
+  "forest": "forêt",
+  "essence diversity": "diversité des essences",
+  "essence": "essence",
+  "composition": "composition",
+  "IPB Version": "version IPB",
+  "biogeographical area": "région biogéographique",
+  "vegetation floor": "étage de végétation",
+  "survey method": "méthode de relevé",
+  "partial survey": "Relevé partiel avec observations dans la zone non parcourue",
+  "fertility": "fertilité",
   "message": "hello i18n !!"
 }

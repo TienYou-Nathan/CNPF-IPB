@@ -18,6 +18,7 @@ export default defineComponent({
   setup() {
     const store = useStore();
     store.state.count; // typed as number
+    return { store };
   },
   props: {},
 });
